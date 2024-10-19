@@ -1,0 +1,3 @@
+rooms=20
+monster_sleep=45
+lives=3
